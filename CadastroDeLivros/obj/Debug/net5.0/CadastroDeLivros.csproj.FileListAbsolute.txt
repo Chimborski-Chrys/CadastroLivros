@@ -1,0 +1,16 @@
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\CadastroDeLivros.csproj.AssemblyReference.cache
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\CadastroDeLivros.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\CadastroDeLivros.AssemblyInfoInputs.cache
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\CadastroDeLivros.AssemblyInfo.cs
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\CadastroDeLivros.csproj.CoreCompileInputs.cache
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\bin\Debug\net5.0\CadastroDeLivros.exe
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\bin\Debug\net5.0\CadastroDeLivros.deps.json
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\bin\Debug\net5.0\CadastroDeLivros.runtimeconfig.json
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\bin\Debug\net5.0\CadastroDeLivros.runtimeconfig.dev.json
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\bin\Debug\net5.0\CadastroDeLivros.dll
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\bin\Debug\net5.0\ref\CadastroDeLivros.dll
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\bin\Debug\net5.0\CadastroDeLivros.pdb
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\CadastroDeLivros.dll
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\ref\CadastroDeLivros.dll
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\CadastroDeLivros.pdb
+D:\workspace\CadastroDeLivros\CadastroDeLivros\CadastroDeLivros\obj\Debug\net5.0\CadastroDeLivros.genruntimeconfig.cache
